@@ -1,0 +1,7 @@
+Packet Tracer is an application which simulates computer networks
+Things I did in this assignment:
+  Created six computers and two switches
+  connected three computers to each switch using cables
+  connected the two switches using a different type of cable
+  assigned IP addresses and subnet masks to two of the computers
+  opened command prompt on one of the two computers and pinged the other
