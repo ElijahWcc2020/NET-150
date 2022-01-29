@@ -1,0 +1,18 @@
+Random notes:
+
+What is the difference between an IP address and a MAC address?
+  IP addresses are assigned to computers
+  IP - Internet Protocol
+  Example of an IP address (? bits):
+  
+  MAC addresses are assigned to NIC cards
+  MAC - Media Access Control
+  Example of a MAC address (6 bits): 
+  
+Notes about Wireshark:
+
+What is Wireshark?
+  Wireshark is an network protocol analyzer which allows users to view packets being sent within their network
+ 
+ What is a network protocol?
+  Network protocols are "a set of rules defining a network" (what does this mean?)
