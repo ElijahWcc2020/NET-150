@@ -1,0 +1,13 @@
+Notes:
+
+I don't understand ARP (will clarify later)
+
+
+CLI:
+- within the CLI type "enable" to enable administrator permissions
+
+- the "show mac-address-table" command in the CLI of a switch will not display network information unless all devices have been pinged
+  - example: this network had four computers. PC0 pinged PC1, PC2, & PC3, then PC1, PC2, & PC3 all pinged PC0
+
+- devices in the same network can communicate with one another locally
+
