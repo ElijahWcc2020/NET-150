@@ -1,14 +1,16 @@
 Random notes:
 
 What is the difference between an IP address and a MAC address?
-  IP addresses are assigned to computers
+  IP addresses are assigned to devices
   IP - Internet Protocol
-  Example of an IP address (? bits):
+  Example of an IP address (32 bits):
+    192.168.1.10
   
   MAC addresses are assigned to NIC cards
   MAC - Media Access Control
   Example of a MAC address (6 bits): 
-  
+    255.255.255.0
+    
 Notes about Wireshark:
 
 What is Wireshark?
