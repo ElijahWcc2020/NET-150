@@ -3,3 +3,6 @@ ARP is used to determine whether a destination address is within a network or no
 the ARP cache stores addresses
 ARP is a layer 2 protocol on the OSI model
   Layer 2 is the datalink layer
+
+Packet Tracer ARP Troubleshooting tip:
+  You will be unable to use ARP protocol in packet tracer if you have not pinged devices to eachother at least once
