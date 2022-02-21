@@ -1,0 +1,5 @@
+ARP obtains MAC and IP addresses within a network
+ARP is used to determine whether a destination address is within a network or not
+the ARP cache stores addresses
+ARP is a layer 2 protocol on the OSI model
+  Layer 2 is the datalink layer
