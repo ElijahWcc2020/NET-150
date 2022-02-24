@@ -1,0 +1,7 @@
+Today my group members and I created a simulation of three connected /27 networks
+I learned how to view the PDU interface and that it could be used similarly to the ping command in CMD
+I also learned that it is possible to copy and paste network components between multiple instances of Packet Tracer, which was useful for adding my work (Skiff network) to the main file
+
+Troubleshooting:
+  - In order to establish a connection between a switch and a router, the router's port connections must be turned on in the config settings
+  - The PDU attempts were unsuccessful. We were not sure why, but we guessed it was due to disrepancies in IP addresses set up by different group members
