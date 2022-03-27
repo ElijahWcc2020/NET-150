@@ -1,0 +1,19 @@
+Routing Notes
+  - I am not entirely sure what routing is
+  - I believe a route is the "route" a packet takes when traveling from one network to another
+  - Routes can be set up in the CLI on packet tracer
+    - CLI > enter > enable > config terminal > R3(config)#ip route 192.168.30.0 255.255.255.0 10.10.10.3 (this last line is just an example)
+    
+  - Static Routing
+    - Cheaper
+    - Better for smaller networks
+    - Requires more maintenence
+    - Does not automatically assign routes
+    - If any link between routers fails, the entire path is affected (not sure what this means but I read it online)
+    
+  - Dynamic Routing
+    - More expensive
+    - Better for larger networks
+    - More difficult to set up
+    - Automatically assigns routes
+    - Uses routing protocols and algorithms
