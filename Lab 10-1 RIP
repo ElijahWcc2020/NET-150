@@ -1,0 +1,10 @@
+RIP version 2 can be configured in the CLI on a router
+  CLI > enable > config terminal > router rip > version 2 > network x.x.x.x
+  
+Simulation mode can be used to analyze packets sent throughout the network
+  I don't really understand the API menu details
+
+The "Show ip route" command is also something I'm a bit confused on
+  I believe it displays all networks that the router has routes set up for
+  It also displays whether the routes are connected, static, etc.
+  
