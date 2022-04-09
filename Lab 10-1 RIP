@@ -8,3 +8,10 @@ The "Show ip route" command is also something I'm a bit confused on
   I believe it displays all networks that the router has routes set up for
   It also displays whether the routes are connected, static, etc.
   
+  
+Troubleshooting
+
+I was, and still am unsure about the details presented on the PDU.
+I searched websites such as the ones listed below, and asked several people if they knew what the information meant, but I could not find any useful information.
+https://learning.oreilly.com/library/view/packet-tracer-network/9781782170426/ch04s02.html#ch04lvl2sec39
+How do I use PDU in Packet Tracer? (findanyanswer.com)
