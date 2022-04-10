@@ -1,0 +1,14 @@
+You can create VLANs by configuring each one in a switch via Config > SWITCHING > VLAN Database > Add
+Then, you have to assign the VLANs to each port Congig > INTERFACE > FastEthernet 0/1 (this is just an example of one port)
+  here is also where you can specify whether a port is an access port or a trunk port
+
+Truck ports are for connections between different switches.
+  (I am not entirely sure why they are needed or how they functionally differ from regular ports)
+
+
+Troubleshooting:
+
+Because I was unsure of how to configure trunk ports, I did some research. Links to some videos/websites I visited are listed below (I also took some time to look into other areas I was unsure of).
+https://www.youtube.com/watch?v=VeAvOwXxh4s
+https://itexamanswers.net/3-4-5-packet-tracer-configure-trunks-instructions-answer.html
+https://www.youtube.com/watch?v=hBDLlEmGX_0
